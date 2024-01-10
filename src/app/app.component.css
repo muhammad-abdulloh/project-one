@@ -1,0 +1,42 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+table {
+  width: 100%;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+.container {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.container .flexable-column {
+  width: 15%;  
+}
+
+.container .flexable-column-out {
+  width: 5%;  
+}
+
+.example-productname {
+  margin-left: 4rem;
+  width: 170px;
+}
+
+.example-category {
+  width: 15%;
+}
+
+#left-out {
+  margin-left: 5%;
+}
+
+#right-out {
+  margin-right: 5%;
+}
